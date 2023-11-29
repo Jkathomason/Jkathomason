@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/app development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to partner on projects
-- 📫 How to reach me...
+- 📫 How to reach me check my socials @jkathomason 
 
 <!---
 Jkathomason/Jkathomason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
